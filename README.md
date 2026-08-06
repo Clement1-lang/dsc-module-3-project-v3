@@ -1,4 +1,4 @@
-# Phase 2 Project Description
+# Module 3 Project Description
 
 You've made it through the second phase of this course, and now you will put your new skills to use with a large end-of-Phase project!
 
@@ -166,7 +166,7 @@ For further reading on creating professional notebooks and `README`s, check out 
 
 ## Grading
 
-***To pass this project, you must pass each project rubric objective.*** The project rubric objectives for Phase 2 are:
+***To pass this project, you must pass each project rubric objective.*** The project rubric objectives for Module 3 are:
 
 1. Data Communication
 2. Authoring Jupyter Notebooks
@@ -176,7 +176,7 @@ For further reading on creating professional notebooks and `README`s, check out 
 
 Communication is a key "soft skill". In [this survey](https://www.payscale.com/data-packages/job-skills), 46% of hiring managers said that recent college grads were missing this skill.
 
-Because "communication" can encompass such a wide range of contexts and skills, we will specifically focus our Phase 2 objective on Data Communication. We define Data Communication as:
+Because "communication" can encompass such a wide range of contexts and skills, we will specifically focus our Module 3 objective on Data Communication. We define Data Communication as:
 
 > Communicating basic data analysis results to diverse audiences via writing and live presentation
 
@@ -191,7 +191,7 @@ Below are the definitions of each rubric level for this objective. This informat
 #### Exceeds Objective
 Creates and describes appropriate visualizations for given business questions, where each visualization fulfills all elements of the checklist
 
-> This "checklist" refers to the Data Visualization checklist within the larger Phase 2 Project Checklist
+> This "checklist" refers to the Data Visualization checklist within the larger Module 3 Project Checklist
 
 #### Meets Objective (Passing Bar)
 Creates and describes appropriate visualizations for given business questions
@@ -272,8 +272,8 @@ Next, you will need to complete the [***Project Proposal***](#project_proposal) 
 
 Then, you will need to create a GitHub repository. There are three options:
 
-1. Look at the [Phase 2 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and follow the directions in the MVP branch.
-2. Fork the [Phase 2 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+1. Look at the [Module 3 Project Templates and Examples repo](https://github.com/devsamuelmwangi/dsc-module-3-project-v3) and follow the directions in the MVP branch.
+2. Fork the [Module 3 Project Repository](https://github.com/devsamuelmwangi/dsc-module-3-project-v3), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 3. Create a new repository from scratch by going to [github.com/new](https://github.com/new) and copying the data files from one of the above resources into your new repository. This approach will result in the most professional-looking portfolio repository, but can be more complicated to use. So if you are getting stuck with this option, try one of the above options instead.
 
 ## Summary
